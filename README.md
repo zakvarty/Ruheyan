@@ -1,4 +1,4 @@
-## Hi there this is Ruheyan👋
+## Hi there this is Rukia👋
 
 
 **Ruheyan/Ruheyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love hand crafts
 
-Herre is [my paage](https://profiles.imperial.ac.uk/r.nuermaimaiti)
+Here is [my page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
   
 
