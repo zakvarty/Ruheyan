@@ -1,7 +1,7 @@
 ## Hi there this is Rukia 👋
 
 
-**Ruheyan/Ruheyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ruheyan/Rukia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about statistics
 - 📫 How to reach me: r.nuermaimaiti@imperial.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love hand crafts
+- ⚡ Fun fact: I love hand crafts including kniting, crocheting, embroidery etc.
 
 Here is [my page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
   
