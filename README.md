@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love hand crafts, including knitting, crocheting, embroidery, etc.
 
-Here is [mi page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
+Here is [my page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
   
 
 ------
