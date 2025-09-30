@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Bibliometrics
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about statistics
-- 📫 How to reach me: r.nuermaimaiti@imperial.ac.uk
+- 📫 How to reach me: [r.nuermaimaiti@imperial.ac.uk](mailto:r.nuermaimaiti@imperial.ac.uk)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love hand crafts, including knitting, crocheting, embroidery, etc.
 
