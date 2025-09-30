@@ -1,4 +1,4 @@
-## Hi there this is Rukia 👋
+## Hi there, this is Rukis 👋
 
 
 **Ruheyan/Rukia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about statistics
 - 📫 How to reach me: r.nuermaimaiti@imperial.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love hand crafts including kniting, crocheting, embroidery etc.
+- ⚡ Fun fact: I love hand crafts, including knitting, crocheting, embroidery, etc.
 
-Here is [my page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
+Here is [mi page](https://profiles.imperial.ac.uk/r.nuermaimaiti)
   
 
 ------
