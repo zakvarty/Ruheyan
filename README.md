@@ -1,4 +1,4 @@
-## Hi there, this is Rukis 👋
+## Hi there, this is Rukia 👋
 
 
 **Ruheyan/Rukia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
